@@ -78,6 +78,7 @@
             </div>
         </footer>
     </div>
+    <div><button onclick="window.location.href='ArrayWorker.php'">На ArrayWorker.php</button></div>
 
 
     <script src="javascript/script.js"></script>
